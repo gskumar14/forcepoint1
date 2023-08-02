@@ -1,0 +1,7 @@
+2023-07-18 15:41:20,471 [0x00001f78] INFO TransactionMonitor - Engine: Received transaction [4798243595292801577].
+							   Service <21>;
+							   Operation <5>;DetectedTime 2023-07-18T15:41:20+05:30;
+
+Content descriptor <C:\Users\k001\AppData\Local\Microsoft\Edge\User Data\Default\Cache\Cache_Data\data_1>;
+Content path <ManagedBuffer>;
+Content size <1318912>;Not sliced Content
